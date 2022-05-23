@@ -1,11 +1,18 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import { StrictMode } from 'react';
+import { createRoot } from 'react-dom/client';
+import { ThemeProvider } from 'styled-components';
+import { GlobalStyles } from './styles/global-styles';
+import { theme } from './styles/theme';
+import Home from './templates/Home/index';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const rootElement = document.getElementById('root');
+const root = createRoot(rootElement);
+
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <StrictMode>
+    <ThemeProvider theme={theme}>
+      <Home />
+      <GlobalStyles />
+    </ThemeProvider>
+  </StrictMode>,
 );
