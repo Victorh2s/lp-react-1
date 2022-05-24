@@ -50,6 +50,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.18.0",
     "@storybook/addon-actions": "^6.5.4",
     "@storybook/addon-essentials": "^6.5.4",
     "@storybook/addon-interactions": "^6.5.4",
@@ -69,7 +70,19 @@
     "eslint-plugin-react-hooks": "^4.5.0",
     "jest-styled-components": "^7.0.8",
     "prop-types": "^15.8.1",
-    "react-test-renderer": "^18.1.0",
-    "webpack": "^5.72.1"
+    "react-test-renderer": "^18.1.0"
+  },
+  "jest": {
+    "setupFilesAfterEnv": ["@testing-library/jest-dom/extend-expect"],
+    "testEnvironment": "jsdom",
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx,ts,tsx}",
+      "!<rootDir>/src/*.{js,jsx,ts,tsx}",
+      "!<rootDir>/src/**/*mock*.{js,jsx,ts,tsx}",
+      "!<rootDir>/src/styles/*.{js,jsx,ts,tsx}",
+      "!<rootDir>/**/stories.{js,jsx,ts,tsx}",
+      "!<rootDir>/src/templates/**/*.{js,jsx,ts,tsx}",
+      "!<rootDir>/node_modules/"
+    ]
   }
 }
