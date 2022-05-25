@@ -12,7 +12,7 @@ ${({ theme }) => css`
     content:'';
     position: absolute;
     left: 50%;
-    bottom: 0 ;
+    bottom: 0.75rem;
     width: 0;
     height: 0.2rem;
     background:${theme.colors.secondaryColor};
