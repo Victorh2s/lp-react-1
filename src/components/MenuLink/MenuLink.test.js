@@ -20,17 +20,15 @@ describe('<MenuLink/>', () => {
   });
 
   it('should render open in a new tab', () => {
-    renderTheme(
+    const { container } = renderTheme(
       <MenuLink link="http://localhost" newTab={false}>
         Children
       </MenuLink>,
     );
 
-    const menulink = screen.getByRole('link', { name: 'Children' });
-
-    expect(menulink).toMatchInlineSnapshot(`
+    expect(container.firstChild).toMatchInlineSnapshot(`
       <a
-        class="sc-bczRLJ gdZAOM"
+        class="sc-bczRLJ iCGmIO"
         href="http://localhost"
         target="_self"
       >
