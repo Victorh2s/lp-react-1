@@ -3,8 +3,13 @@ import { SectionContainer } from '.';
 import { renderTheme } from '../../styles/render-theme';
 describe('<SectionContainer/>', () => {
   it('should render', () => {
-    renderTheme(<SectionContainer>Children</SectionContainer>);
+    const { container } = renderTheme(
+      <SectionContainer>
+        <h1>Children</h1>
+      </SectionContainer>,
+    );
     const sectionCont = screen.getByRole('heading');
     expect(sectionCont).toBeInTheDocument();
+    expect(container).toMatchSnapshot();
   });
 });
