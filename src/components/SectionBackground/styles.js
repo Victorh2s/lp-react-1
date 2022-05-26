@@ -7,6 +7,7 @@ const backgroundActive = (theme) => css`
 
 export const Container = styled.div`
 ${({ theme, background }) => css`
+transition: all 300ms ease-in-out;
 background: ${theme.colors.white};
 color: ${theme.colors.primaryColor};
 ${background && backgroundActive(theme)}
