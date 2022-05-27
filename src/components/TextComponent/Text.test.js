@@ -13,15 +13,15 @@ describe('<TextComponent/>', () => {
   it('should render correct text sizes', () => {
     const { container } = renderTheme(<TextComponent>Children</TextComponent>);
     expect(container.firstChild).toMatchInlineSnapshot(`
-    .c0 {
-      font-size: 2.4rem;
-    }
+      .c0 {
+        font-size: 2.4rem;
+      }
 
-    <p
-      class="c0"
-    >
-      Children
-    </p>
+      <div
+        class="c0"
+      >
+        Children
+      </div>
     `);
   });
 });
