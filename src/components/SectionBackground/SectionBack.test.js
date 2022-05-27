@@ -20,8 +20,7 @@ describe('<SectionBackground/>', () => {
         <h1>Children</h1>
       </SectionBackground>,
     );
-    const SectionBack = screen.getByRole('heading');
-    expect(SectionBack).toBeInTheDocument();
+    expect(screen.getByRole('heading')).toBeInTheDocument();
     expect(container).toMatchSnapshot();
   });
 });

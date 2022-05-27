@@ -6,10 +6,10 @@ exports[`<GridText/> should render GridText with background 1`] = `
     class="sc-dkzDqf eWblEr"
   >
     <div
-      class="sc-gsnTZi ezeGm"
+      class="sc-gsnTZi cjNzPQ"
     >
       <div
-        class="sc-eCYdqJ fyvLcL"
+        class="sc-eCYdqJ fDQgXV"
       >
         <h2
           class="sc-bczRLJ hGDuJC"
@@ -79,10 +79,10 @@ exports[`<GridText/> should render GridText without background 1`] = `
     class="sc-dkzDqf eWblEr"
   >
     <div
-      class="sc-gsnTZi ezeGm"
+      class="sc-gsnTZi cjNzPQ"
     >
       <div
-        class="sc-eCYdqJ fyvLcL"
+        class="sc-eCYdqJ fDQgXV"
       >
         <h2
           class="sc-bczRLJ hGDuJC"
