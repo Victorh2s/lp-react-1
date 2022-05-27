@@ -70,7 +70,7 @@ export const Button = styled.button`
     width: 4rem;
     height: 4rem;
     background: transparent;
-    color: ${theme.colors.primaryColor};
+    color: ${theme.colors.colorbuttons};
     border: none;
     display: none;
     pointer-events: ${visible ? 'none' : 'all'};
@@ -80,8 +80,8 @@ export const Button = styled.button`
       justify-content: center;
     }
     > svg {
-      width: 2.5rem;
-      height: 2.5rem;
+      width: 3rem;
+      height: 3rem;
     }
   `}
 `;

@@ -19,7 +19,13 @@ ${({ theme }) => css`
   counter-reset: grid-counter;
   display: grid;
   grid-template-columns: repeat(auto-fill,minmax(280px, 1fr));
-  gap: ${theme.spacings.large}
+  gap: ${theme.spacings.large};
+  overflow: hidden;
+  width: 100%;
+
+  @media ${theme.media.lteMedium} {
+    grid-template-columns: 1fr;
+  }
 `}
 `;
 

@@ -4,8 +4,8 @@ export const Container = styled.a`
   ${({ theme }) => css`
     position: fixed;
     background: none;
-    color: ${theme.colors.primaryColor};
-    border: 1px solid ${theme.colors.primaryColor};
+    color: ${theme.colors.colorbuttons};
+    border: 0.1rem solid ${theme.colors.colorbuttons};
     border-radius: 5rem;
     display: flex;
     align-items: center;

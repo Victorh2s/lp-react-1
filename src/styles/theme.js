@@ -4,6 +4,7 @@ export const theme = {
     secondaryColor: '#dc143c',
     white: '#FFFFFF',
     mediumGray: '#DDDDDD',
+    colorbuttons: 'rgb(16, 154, 214)',
   },
   font: {
     family: {
