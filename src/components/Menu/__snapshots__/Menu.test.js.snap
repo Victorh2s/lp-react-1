@@ -60,15 +60,15 @@ exports[`<Menu/> should not links 1`] = `
   width: 4rem;
   height: 4rem;
   background: transparent;
-  color: #0A1128;
+  color: rgb(16,154,214);
   border: none;
   display: none;
   pointer-events: all;
 }
 
 .c0 > svg {
-  width: 2.5rem;
-  height: 2.5rem;
+  width: 3rem;
+  height: 3rem;
 }
 
 .c8 {
@@ -284,15 +284,15 @@ exports[`<Menu/> should render Logo and Main Menu Nav 1`] = `
   width: 4rem;
   height: 4rem;
   background: transparent;
-  color: #0A1128;
+  color: rgb(16,154,214);
   border: none;
   display: none;
   pointer-events: all;
 }
 
 .c0 > svg {
-  width: 2.5rem;
-  height: 2.5rem;
+  width: 3rem;
+  height: 3rem;
 }
 
 .c8 {

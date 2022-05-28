@@ -22,7 +22,7 @@ exports[`<GridText/> should render GridText with background 1`] = `
           Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
         </div>
         <div
-          class="sc-jSMfEi ICgPX"
+          class="sc-jSMfEi fTcEaK"
         >
           <div
             class="sc-gKXOVf ddazSf"
@@ -95,7 +95,7 @@ exports[`<GridText/> should render GridText without background 1`] = `
           Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
         </div>
         <div
-          class="sc-jSMfEi ICgPX"
+          class="sc-jSMfEi fTcEaK"
         >
           <div
             class="sc-gKXOVf ddazSf"
