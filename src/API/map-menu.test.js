@@ -1,7 +1,7 @@
 import { mapMenu, mapMenuLinks } from './map-menu';
 
 describe('map-menu', () => {
-  it('Should return a predefined object if no data', () => {
+  it('should return a predefined object if no data', () => {
     const menu = mapMenu();
     expect(menu.newTab).toBe(false);
     expect(menu.text).toBe('');
@@ -9,10 +9,9 @@ describe('map-menu', () => {
     expect(menu.link).toBe('');
   });
 
-  it('Should map menu to match keys and values required', () => {
+  it('should map menu to match keys and values required', () => {
     const menu = mapMenu({
       open_in_new_tab: false,
-
       logo_text: 'Landing Page',
       logo_link: '#home',
       menu: [
@@ -27,7 +26,6 @@ describe('map-menu', () => {
           url: '#contact',
         },
       ],
-
       logo: {
         url: 'a.svg',
       },
@@ -41,23 +39,19 @@ describe('map-menu', () => {
     expect(menu.links[0].link).toBe('#pricing');
   });
 
-  it('Should return an empty array if no links', () => {
+  it('should return an empty array if no links', () => {
     const links = mapMenuLinks();
     expect(links).toEqual([]);
   });
 
-  it('Should map links if links passed', () => {
+  it('should map links if links passed', () => {
     const links = mapMenuLinks([
       {
         open_in_new_tab: false,
         link_text: 'pricing',
         url: '#pricing',
       },
-      {
-        open_in_new_tab: false,
-        link_text: 'contact',
-        url: '#contact',
-      },
+      {},
     ]);
     expect(links[0].newTab).toBe(false);
     expect(links[0].children).toBe('pricing');
