@@ -4,6 +4,7 @@ exports[`<GridContent/> should render 1`] = `
 <div>
   <div
     class="sc-dkzDqf eWblEr"
+    id=""
   >
     <div
       class="sc-gsnTZi cjNzPQ"
@@ -11,11 +12,11 @@ exports[`<GridContent/> should render 1`] = `
       <div
         class="sc-eCYdqJ fJkkYe"
       >
-        <h1
+        <h2
           class="sc-bczRLJ hGDuJC"
         >
           O tiluto vem aqui
-        </h1>
+        </h2>
         <div
           class="sc-jSMfEi keDowh"
         >
@@ -116,6 +117,7 @@ exports[`<GridContent/> should render 2`] = `
 <div>
   <div
     class="sc-dkzDqf eWblEr"
+    id=""
   >
     <div
       class="sc-gsnTZi cjNzPQ"
@@ -123,11 +125,11 @@ exports[`<GridContent/> should render 2`] = `
       <div
         class="sc-eCYdqJ fJkkYe"
       >
-        <h1
+        <h2
           class="sc-bczRLJ hGDuJC"
         >
           O tiluto vem aqui
-        </h1>
+        </h2>
         <div
           class="sc-jSMfEi keDowh"
         >

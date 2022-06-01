@@ -4,9 +4,12 @@ import { Menu } from '../../components/Menu';
 import { Footer } from '../../components/Footer';
 import { GoTop } from '../../components/GoTop';
 
-// import links from '../..components/NavLinks/mock';
+export const Base = ({ links, logoData, footerHtml, children }) => {
+  const handleClick = (e) => {
+    e.preventDefault();
+    window && window.scrollTo(0, 0);
+  };
 
-export const Base = ({ links = [], logoData, footerHtml, children }) => {
   return (
     <>
       <Menu links={links} logoData={logoData} />
@@ -14,12 +17,13 @@ export const Base = ({ links = [], logoData, footerHtml, children }) => {
         {children}
         <Footer footerHtml={footerHtml} />
       </Styled.Container>
-      <GoTop />
+      <GoTop handleClick={handleClick} />
     </>
   );
 };
+
 Base.propTypes = {
   children: P.node.isRequired,
   ...Menu.propTypes,
-  footerHtml: P.object.isRequired,
+  footerHtml: P.string.isRequired,
 };

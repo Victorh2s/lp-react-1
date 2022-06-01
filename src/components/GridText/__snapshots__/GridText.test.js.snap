@@ -3,13 +3,14 @@
 exports[`<GridText/> should render GridText with background 1`] = `
 <div>
   <div
-    class="sc-dkzDqf eWblEr"
+    class="sc-gKXOVf joDErG"
+    id=""
   >
     <div
-      class="sc-gsnTZi cjNzPQ"
+      class="sc-jSMfEi dRbZhr"
     >
       <div
-        class="sc-eCYdqJ fDQgXV"
+        class="sc-dkzDqf hsxRpz"
       >
         <h2
           class="sc-bczRLJ hGDuJC"
@@ -17,15 +18,15 @@ exports[`<GridText/> should render GridText with background 1`] = `
           My grid
         </h2>
         <div
-          class="sc-hKMtZM bEjUFA"
+          class="sc-gsnTZi gNZDCw"
         >
           Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
         </div>
         <div
-          class="sc-jSMfEi fTcEaK"
+          class="sc-hKMtZM lkscSh"
         >
           <div
-            class="sc-gKXOVf ddazSf"
+            class="sc-eCYdqJ lluHNs"
           >
             <h3
               class="sc-bczRLJ fnHBwd"
@@ -33,13 +34,13 @@ exports[`<GridText/> should render GridText with background 1`] = `
               Teste 1
             </h3>
             <div
-              class="sc-hKMtZM bEjUFA"
+              class="sc-gsnTZi gNZDCw"
             >
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
             </div>
           </div>
           <div
-            class="sc-gKXOVf ddazSf"
+            class="sc-eCYdqJ lluHNs"
           >
             <h3
               class="sc-bczRLJ fnHBwd"
@@ -47,13 +48,13 @@ exports[`<GridText/> should render GridText with background 1`] = `
               Teste 2
             </h3>
             <div
-              class="sc-hKMtZM bEjUFA"
+              class="sc-gsnTZi gNZDCw"
             >
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
             </div>
           </div>
           <div
-            class="sc-gKXOVf ddazSf"
+            class="sc-eCYdqJ lluHNs"
           >
             <h3
               class="sc-bczRLJ fnHBwd"
@@ -61,7 +62,7 @@ exports[`<GridText/> should render GridText with background 1`] = `
               Teste 3
             </h3>
             <div
-              class="sc-hKMtZM bEjUFA"
+              class="sc-gsnTZi gNZDCw"
             >
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
             </div>
@@ -76,13 +77,14 @@ exports[`<GridText/> should render GridText with background 1`] = `
 exports[`<GridText/> should render GridText without background 1`] = `
 <div>
   <div
-    class="sc-dkzDqf eWblEr"
+    class="sc-gKXOVf joDErG"
+    id=""
   >
     <div
-      class="sc-gsnTZi cjNzPQ"
+      class="sc-jSMfEi dRbZhr"
     >
       <div
-        class="sc-eCYdqJ fDQgXV"
+        class="sc-dkzDqf hsxRpz"
       >
         <h2
           class="sc-bczRLJ hGDuJC"
@@ -90,15 +92,15 @@ exports[`<GridText/> should render GridText without background 1`] = `
           My grid
         </h2>
         <div
-          class="sc-hKMtZM bEjUFA"
+          class="sc-gsnTZi gNZDCw"
         >
           Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
         </div>
         <div
-          class="sc-jSMfEi fTcEaK"
+          class="sc-hKMtZM lkscSh"
         >
           <div
-            class="sc-gKXOVf ddazSf"
+            class="sc-eCYdqJ lluHNs"
           >
             <h3
               class="sc-bczRLJ fnHBwd"
@@ -106,13 +108,13 @@ exports[`<GridText/> should render GridText without background 1`] = `
               Teste 1
             </h3>
             <div
-              class="sc-hKMtZM bEjUFA"
+              class="sc-gsnTZi gNZDCw"
             >
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
             </div>
           </div>
           <div
-            class="sc-gKXOVf ddazSf"
+            class="sc-eCYdqJ lluHNs"
           >
             <h3
               class="sc-bczRLJ fnHBwd"
@@ -120,13 +122,13 @@ exports[`<GridText/> should render GridText without background 1`] = `
               Teste 2
             </h3>
             <div
-              class="sc-hKMtZM bEjUFA"
+              class="sc-gsnTZi gNZDCw"
             >
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
             </div>
           </div>
           <div
-            class="sc-gKXOVf ddazSf"
+            class="sc-eCYdqJ lluHNs"
           >
             <h3
               class="sc-bczRLJ fnHBwd"
@@ -134,7 +136,7 @@ exports[`<GridText/> should render GridText without background 1`] = `
               Teste 3
             </h3>
             <div
-              class="sc-hKMtZM bEjUFA"
+              class="sc-gsnTZi gNZDCw"
             >
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
             </div>

@@ -11,7 +11,7 @@ transition: all 300ms ease-in-out;
 background: ${theme.colors.white};
 color: ${theme.colors.primaryColor};
 ${background && backgroundActive(theme)}
-min-height: 100vh;
+min-height: 80vh;
 display: flex;
 align-items: center;
 `}

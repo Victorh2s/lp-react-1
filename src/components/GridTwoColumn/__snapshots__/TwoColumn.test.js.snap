@@ -4,6 +4,7 @@ exports[`<GridTwoColumn/> should render two column 1`] = `
 <div>
   <div
     class="sc-gKXOVf joDErG"
+    id=""
   >
     <div
       class="sc-jSMfEi dRbZhr"
