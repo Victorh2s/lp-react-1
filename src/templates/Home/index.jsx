@@ -8,15 +8,18 @@ import { GridContent } from '../../components/GridContent';
 import { GridText } from '../../components/GridText';
 import { GridImage } from '../../components/GridImage';
 import config from '../../config';
+import { useLocation } from 'react-router-dom';
 
 function Home() {
   const [data, setData] = useState([]);
   const isMounted = useRef(true);
+  const location = useLocation();
 
   useEffect(() => {
     const load = async () => {
       const pathName = location.pathname.replace(/[^a-z0-9-_]/gi, '');
       const slug = pathName ? pathName : 'new-page';
+
       try {
         const data = await fetch(
           `https://strapi-v4-teste.herokuapp.com/api/pages/?filters[slug]=${slug}&populate=deep`,
@@ -38,7 +41,7 @@ function Home() {
     return () => {
       isMounted.current = false;
     };
-  }, []);
+  }, [location]);
 
   useEffect(() => {
     if (data === undefined) {
@@ -75,7 +78,7 @@ function Home() {
         const { component } = section;
         const key = `${slug}-${index}`;
 
-        if (component === 'section.sections-two-columns') {
+        if (component === 'section.section-two-columns') {
           return <GridTwoColumns key={key} {...section} />;
         }
 

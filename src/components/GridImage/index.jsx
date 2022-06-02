@@ -14,14 +14,14 @@ export const GridImage = ({
   return (
     <SectionBackground background={background} sectionId={sectionId}>
       <Styled.Container>
-        <Heading size="big" uppercase colorDark={!background} as="h2">
+        <Heading size="huge" uppercase colorDark={!background} as="h2">
           {title}
         </Heading>
         <TextComponent>{description}</TextComponent>
         <Styled.Grid>
           {grid.map((el) => (
-            <Styled.GridElement key={`${el.url}${el.id}`}>
-              <Styled.Image src={el.url} />
+            <Styled.GridElement key={`${el.srcImg}${el.altText}`}>
+              <Styled.Image src={el.srcImg} alt={el.altText} />
             </Styled.GridElement>
           ))}
         </Styled.Grid>
@@ -36,8 +36,8 @@ GridImage.propTypes = {
   description: P.string.isRequired,
   grid: P.arrayOf(
     P.shape({
-      url: P.string.isRequired,
-      id: P.number.isRequired,
+      altText: P.string.isRequired,
+      srcImg: P.string.isRequired,
     }),
   ).isRequired,
   sectionId: P.string,
