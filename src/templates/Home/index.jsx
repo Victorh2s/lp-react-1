@@ -19,12 +19,12 @@ function Home() {
       const slug = pathName ? pathName : 'new-page';
       try {
         const data = await fetch(
-          `http://localhost:1337/api/pages/?filters[slug]=${slug}&populate[menu][populate]=*&populate[sections][populate]=*`,
+          `https://strapi-v4-teste.herokuapp.com/api/pages/?filters[slug]=${slug}&populate=deep`,
         );
         const json = await data.json();
         const { attributes } = json.data[0];
         const pageData = mapData([attributes]);
-
+        console.log(pageData);
         setData(() => pageData[0]);
       } catch {
         setData(undefined);
