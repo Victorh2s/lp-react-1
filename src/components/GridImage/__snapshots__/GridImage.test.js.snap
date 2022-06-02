@@ -3,22 +3,22 @@
 exports[`<GridImage/> should render GridImage with background 1`] = `
 <div>
   <div
-    class="sc-dkzDqf eWblEr"
+    class="sc-dkzDqf kprtaq"
     id=""
   >
     <div
       class="sc-gsnTZi cjNzPQ"
     >
       <div
-        class="sc-eCYdqJ dpOFkl"
+        class="sc-eCYdqJ hhcssm"
       >
         <h2
-          class="sc-bczRLJ hGDuJC"
+          class="sc-bczRLJ itwqPE"
         >
           My grid
         </h2>
         <div
-          class="sc-hKMtZM bEjUFA"
+          class="sc-hKMtZM jwjMsF"
         >
           Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
         </div>
@@ -29,7 +29,6 @@ exports[`<GridImage/> should render GridImage with background 1`] = `
             class="sc-gKXOVf aTaaK"
           >
             <img
-              alt="Teste 1"
               class="sc-iBkjds Doarb"
               src="https://source.unsplash.com/random/800x800?r=1"
             />
@@ -38,7 +37,6 @@ exports[`<GridImage/> should render GridImage with background 1`] = `
             class="sc-gKXOVf aTaaK"
           >
             <img
-              alt="Teste 2"
               class="sc-iBkjds Doarb"
               src="https://source.unsplash.com/random/800x800?r=2"
             />
@@ -47,7 +45,6 @@ exports[`<GridImage/> should render GridImage with background 1`] = `
             class="sc-gKXOVf aTaaK"
           >
             <img
-              alt="Teste 3"
               class="sc-iBkjds Doarb"
               src="https://source.unsplash.com/random/800x800?r=3"
             />
@@ -56,7 +53,6 @@ exports[`<GridImage/> should render GridImage with background 1`] = `
             class="sc-gKXOVf aTaaK"
           >
             <img
-              alt="Teste 4"
               class="sc-iBkjds Doarb"
               src="https://source.unsplash.com/random/800x800?r=4"
             />
@@ -65,7 +61,6 @@ exports[`<GridImage/> should render GridImage with background 1`] = `
             class="sc-gKXOVf aTaaK"
           >
             <img
-              alt="Teste 5"
               class="sc-iBkjds Doarb"
               src="https://source.unsplash.com/random/800x800?r=5"
             />
@@ -74,7 +69,6 @@ exports[`<GridImage/> should render GridImage with background 1`] = `
             class="sc-gKXOVf aTaaK"
           >
             <img
-              alt="Teste 6"
               class="sc-iBkjds Doarb"
               src="https://source.unsplash.com/random/800x800?r=6"
             />
@@ -89,22 +83,22 @@ exports[`<GridImage/> should render GridImage with background 1`] = `
 exports[`<GridImage/> should render GridImage without background 1`] = `
 <div>
   <div
-    class="sc-dkzDqf eWblEr"
+    class="sc-dkzDqf kprtaq"
     id=""
   >
     <div
       class="sc-gsnTZi cjNzPQ"
     >
       <div
-        class="sc-eCYdqJ dpOFkl"
+        class="sc-eCYdqJ hhcssm"
       >
         <h2
-          class="sc-bczRLJ hGDuJC"
+          class="sc-bczRLJ itwqPE"
         >
           My grid
         </h2>
         <div
-          class="sc-hKMtZM bEjUFA"
+          class="sc-hKMtZM jwjMsF"
         >
           Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
         </div>
@@ -115,7 +109,6 @@ exports[`<GridImage/> should render GridImage without background 1`] = `
             class="sc-gKXOVf aTaaK"
           >
             <img
-              alt="Teste 1"
               class="sc-iBkjds Doarb"
               src="https://source.unsplash.com/random/800x800?r=1"
             />
@@ -124,7 +117,6 @@ exports[`<GridImage/> should render GridImage without background 1`] = `
             class="sc-gKXOVf aTaaK"
           >
             <img
-              alt="Teste 2"
               class="sc-iBkjds Doarb"
               src="https://source.unsplash.com/random/800x800?r=2"
             />
@@ -133,7 +125,6 @@ exports[`<GridImage/> should render GridImage without background 1`] = `
             class="sc-gKXOVf aTaaK"
           >
             <img
-              alt="Teste 3"
               class="sc-iBkjds Doarb"
               src="https://source.unsplash.com/random/800x800?r=3"
             />
@@ -142,7 +133,6 @@ exports[`<GridImage/> should render GridImage without background 1`] = `
             class="sc-gKXOVf aTaaK"
           >
             <img
-              alt="Teste 4"
               class="sc-iBkjds Doarb"
               src="https://source.unsplash.com/random/800x800?r=4"
             />
@@ -151,7 +141,6 @@ exports[`<GridImage/> should render GridImage without background 1`] = `
             class="sc-gKXOVf aTaaK"
           >
             <img
-              alt="Teste 5"
               class="sc-iBkjds Doarb"
               src="https://source.unsplash.com/random/800x800?r=5"
             />
@@ -160,7 +149,6 @@ exports[`<GridImage/> should render GridImage without background 1`] = `
             class="sc-gKXOVf aTaaK"
           >
             <img
-              alt="Teste 6"
               class="sc-iBkjds Doarb"
               src="https://source.unsplash.com/random/800x800?r=6"
             />

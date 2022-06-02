@@ -13,7 +13,6 @@ export const Container = styled.div`
     }
     ${Title} {
       margin-bottom: ${theme.spacings.xlarge};
-
     }
   `}
 `;
@@ -32,7 +31,6 @@ export const ImageContainer = styled.div`
 
 export const Image = styled.img`
   ${({ theme }) => css`
-      width: 70rem;
-      height: 70rem;
+    width: 100%;
   `}
 `;

@@ -13,9 +13,10 @@ describe('map-sections', () => {
     const data = mapSections();
     expect(data).toEqual([]);
   });
+
   it('should render sections with correct data', () => {
-    const data = mapSections(pagesFakeData[0].sections);
-    expect(data[0].component).toBe('section.section-two-columns');
+    const data = mapSections(pagesFakeData.data[0].attributes.sections);
+    expect(data[0].__component).toBe('section.section-two-columns');
   });
 
   it('should test section with invalid data', () => {
@@ -58,7 +59,7 @@ describe('map-sections', () => {
 
   it('should map section two columns with data', () => {
     const data = mapSectionTwoColumns({
-      __component: 'section.section-two-columns',
+      __component: 'section.sections-two-columns',
       title: 'title',
       description: 'abc',
       metadata: {
@@ -66,11 +67,15 @@ describe('map-sections', () => {
         section_id: 'contact',
       },
       image: {
-        url: 'a.svg',
+        data: {
+          attributes: {
+            url: 'a.svg',
+          },
+        },
       },
     });
     expect(data.background).toBe(true);
-    expect(data.component).toBe('section.section-two-columns');
+    expect(data.component).toBe('section.sections-two-columns');
     expect(data.sectionId).toBe('contact');
     expect(data.srcImg).toBe('a.svg');
     expect(data.text).toBe('abc');
@@ -159,10 +164,8 @@ describe('map-sections', () => {
       text_grid: [],
       image_grid: [
         {
-          image: {
-            alternativeText: 'abc',
-            url: 'a.svg',
-          },
+          id: 1,
+          url: 'a.svg',
         },
       ],
       metadata: {
@@ -176,7 +179,7 @@ describe('map-sections', () => {
     expect(data.sectionId).toBe('gallery');
     expect(data.title).toBe('Gallery');
     expect(data.description).toBe('abc');
-    expect(data.grid[0].srcImg).toBe('a.svg');
-    expect(data.grid[0].altText).toBe('abc');
+    expect(data.grid[0].url).toBe('a.svg');
+    expect(data.grid[0].id).toBe(1);
   });
 });

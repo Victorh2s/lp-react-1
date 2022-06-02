@@ -1,12 +1,12 @@
-import { screen } from '@testing-library/react';
 import { renderTheme } from '../../styles/render-theme';
-import { theme } from '../../styles/theme';
-import Home from './index';
+import Home from '.';
 
-//Renderizando o componente e testando o css
-describe('<Home/>', () => {
-  test('renders learn react link', () => {
+describe('<Home />', () => {
+  it('should render home', () => {
     renderTheme(<Home />);
   });
+
+  it('should do something', () => {
+    expect(1).toBe(1);
+  });
 });
-// expect(headingContainer).toHaveStyleRule('background', 'blue');

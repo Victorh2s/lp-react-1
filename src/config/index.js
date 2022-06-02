@@ -1,4 +1,4 @@
 export default {
   siteName: 'Victor H',
-  defaultSlug: 'landing-page',
+  defaultSlug: 'new-page',
 };

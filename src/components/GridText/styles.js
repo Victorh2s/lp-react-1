@@ -6,7 +6,9 @@ export const Container = styled.div`
 ${({ theme }) => css`
 
 > ${TextComponent}{
+  text-align: center;
   margin-bottom: ${theme.spacings.xhuge}
+
 }
 ${HeadingContainer}{
   text-align: center;

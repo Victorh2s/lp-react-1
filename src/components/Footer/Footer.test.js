@@ -10,13 +10,13 @@ describe('<Footer/>', () => {
     expect(container).toMatchInlineSnapshot(`
       <div>
         <footer
-          class="sc-dkzDqf cSazVU"
+          class="sc-dkzDqf hYIqoR"
         >
           <div
             class="sc-bczRLJ jYnuLy"
           >
             <div
-              class="sc-gsnTZi gNZDCw"
+              class="sc-gsnTZi fSQKXd"
             >
               <h1>
                 Olá

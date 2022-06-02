@@ -3,22 +3,22 @@
 exports[`<GridText/> should render GridText with background 1`] = `
 <div>
   <div
-    class="sc-gKXOVf joDErG"
+    class="sc-gKXOVf hMKDKT"
     id=""
   >
     <div
       class="sc-jSMfEi dRbZhr"
     >
       <div
-        class="sc-dkzDqf hsxRpz"
+        class="sc-dkzDqf heXQUQ"
       >
         <h2
-          class="sc-bczRLJ hGDuJC"
+          class="sc-bczRLJ itwqPE"
         >
           My grid
         </h2>
         <div
-          class="sc-gsnTZi gNZDCw"
+          class="sc-gsnTZi fSQKXd"
         >
           Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
         </div>
@@ -34,7 +34,7 @@ exports[`<GridText/> should render GridText with background 1`] = `
               Teste 1
             </h3>
             <div
-              class="sc-gsnTZi gNZDCw"
+              class="sc-gsnTZi fSQKXd"
             >
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
             </div>
@@ -48,7 +48,7 @@ exports[`<GridText/> should render GridText with background 1`] = `
               Teste 2
             </h3>
             <div
-              class="sc-gsnTZi gNZDCw"
+              class="sc-gsnTZi fSQKXd"
             >
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
             </div>
@@ -62,7 +62,7 @@ exports[`<GridText/> should render GridText with background 1`] = `
               Teste 3
             </h3>
             <div
-              class="sc-gsnTZi gNZDCw"
+              class="sc-gsnTZi fSQKXd"
             >
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
             </div>
@@ -77,22 +77,22 @@ exports[`<GridText/> should render GridText with background 1`] = `
 exports[`<GridText/> should render GridText without background 1`] = `
 <div>
   <div
-    class="sc-gKXOVf joDErG"
+    class="sc-gKXOVf hMKDKT"
     id=""
   >
     <div
       class="sc-jSMfEi dRbZhr"
     >
       <div
-        class="sc-dkzDqf hsxRpz"
+        class="sc-dkzDqf heXQUQ"
       >
         <h2
-          class="sc-bczRLJ hGDuJC"
+          class="sc-bczRLJ itwqPE"
         >
           My grid
         </h2>
         <div
-          class="sc-gsnTZi gNZDCw"
+          class="sc-gsnTZi fSQKXd"
         >
           Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
         </div>
@@ -108,7 +108,7 @@ exports[`<GridText/> should render GridText without background 1`] = `
               Teste 1
             </h3>
             <div
-              class="sc-gsnTZi gNZDCw"
+              class="sc-gsnTZi fSQKXd"
             >
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
             </div>
@@ -122,7 +122,7 @@ exports[`<GridText/> should render GridText without background 1`] = `
               Teste 2
             </h3>
             <div
-              class="sc-gsnTZi gNZDCw"
+              class="sc-gsnTZi fSQKXd"
             >
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
             </div>
@@ -136,7 +136,7 @@ exports[`<GridText/> should render GridText without background 1`] = `
               Teste 3
             </h3>
             <div
-              class="sc-gsnTZi gNZDCw"
+              class="sc-gsnTZi fSQKXd"
             >
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
             </div>

@@ -3,25 +3,25 @@
 exports[`<GridTwoColumn/> should render two column 1`] = `
 <div>
   <div
-    class="sc-gKXOVf joDErG"
+    class="sc-gKXOVf hMKDKT"
     id=""
   >
     <div
       class="sc-jSMfEi dRbZhr"
     >
       <div
-        class="sc-gsnTZi fqhlWJ"
+        class="sc-gsnTZi gLKscr"
       >
         <div
           class="sc-dkzDqf kUFkcz"
         >
           <h2
-            class="sc-bczRLJ hGDuJC"
+            class="sc-bczRLJ itwqPE"
           >
             Grid two columns
           </h2>
           <div
-            class="sc-iBkjds ggWPWg"
+            class="sc-iBkjds flNXqN"
           >
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio magnam culpa eveniet doloribus harum? Ipsam, a necessitatibus? Sequi sunt accusantium quod, animi iure a, aliquid dolor ea vel magni dolore?
           </div>
@@ -31,7 +31,7 @@ exports[`<GridTwoColumn/> should render two column 1`] = `
         >
           <img
             alt="Grid two columns"
-            class="sc-eCYdqJ cukpPu"
+            class="sc-eCYdqJ fsGMuB"
             src="assets/images/js.svg"
           />
         </div>

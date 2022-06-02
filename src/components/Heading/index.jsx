@@ -4,8 +4,8 @@ import * as Styled from './styles';
 export const Heading = ({
   children,
   colorDark = true,
-  as = 'h1',
-  size = 'huge',
+  as = 'h2',
+  size = 'big',
   uppercase = false,
 }) => {
   return (

@@ -11,16 +11,18 @@ import config from '../../config';
 
 function Home() {
   const [data, setData] = useState([]);
+  const isMounted = useRef(true);
 
   useEffect(() => {
     const load = async () => {
+      const pathName = location.pathname.replace(/[^a-z0-9-_]/gi, '');
+      const slug = pathName ? pathName : 'new-page';
       try {
         const data = await fetch(
-          'http://localhost:1337/api/pages/?filters[slug]=new-page&populate[menu][populate]=*&populate[sections][populate]=*',
+          `http://localhost:1337/api/pages/?filters[slug]=${slug}&populate[menu][populate]=*&populate[sections][populate]=*`,
         );
         const json = await data.json();
         const { attributes } = json.data[0];
-        console.log(attributes);
         const pageData = mapData([attributes]);
 
         setData(() => pageData[0]);
@@ -29,7 +31,13 @@ function Home() {
       }
     };
 
-    load();
+    if (isMounted.current === true) {
+      load();
+    }
+
+    return () => {
+      isMounted.current = false;
+    };
   }, []);
 
   useEffect(() => {

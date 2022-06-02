@@ -12,7 +12,7 @@ describe('<Heading />', () => {
 
     expect(heading).toHaveStyle({
       color: theme.colors.primaryColor,
-      'font-size': theme.font.sizes.xhuge,
+      'font-size': theme.font.sizes.xlarge,
       'text-transform': 'none',
     });
   });

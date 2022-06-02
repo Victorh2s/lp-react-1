@@ -3,7 +3,7 @@
 exports[`<GridContent/> should render 1`] = `
 <div>
   <div
-    class="sc-dkzDqf eWblEr"
+    class="sc-dkzDqf kprtaq"
     id=""
   >
     <div
@@ -13,7 +13,7 @@ exports[`<GridContent/> should render 1`] = `
         class="sc-eCYdqJ fJkkYe"
       >
         <h2
-          class="sc-bczRLJ hGDuJC"
+          class="sc-bczRLJ itwqPE"
         >
           O tiluto vem aqui
         </h2>
@@ -21,7 +21,7 @@ exports[`<GridContent/> should render 1`] = `
           class="sc-jSMfEi keDowh"
         >
           <div
-            class="sc-hKMtZM bEjUFA"
+            class="sc-hKMtZM jwjMsF"
           >
             <p>
               <strong>
@@ -116,7 +116,7 @@ exports[`<GridContent/> should render 1`] = `
 exports[`<GridContent/> should render 2`] = `
 <div>
   <div
-    class="sc-dkzDqf eWblEr"
+    class="sc-dkzDqf kprtaq"
     id=""
   >
     <div
@@ -126,7 +126,7 @@ exports[`<GridContent/> should render 2`] = `
         class="sc-eCYdqJ fJkkYe"
       >
         <h2
-          class="sc-bczRLJ hGDuJC"
+          class="sc-bczRLJ itwqPE"
         >
           O tiluto vem aqui
         </h2>
@@ -134,7 +134,7 @@ exports[`<GridContent/> should render 2`] = `
           class="sc-jSMfEi keDowh"
         >
           <div
-            class="sc-hKMtZM bEjUFA"
+            class="sc-hKMtZM jwjMsF"
           >
             <p>
               <strong>

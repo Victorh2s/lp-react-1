@@ -33,7 +33,7 @@ exports[`<Base /> should render 1`] = `
       <div
         class="sc-papXJ eIiUmt"
       >
-        <h1
+        <h2
           class="sc-bczRLJ kukvte"
         >
           <a
@@ -42,7 +42,7 @@ exports[`<Base /> should render 1`] = `
           >
             Logo
           </a>
-        </h1>
+        </h2>
         <nav
           class="sc-iqcoie gVkxmo"
         >
@@ -124,22 +124,22 @@ exports[`<Base /> should render 1`] = `
     class="sc-iBkjds lobcSh"
   >
     <div
-      class="sc-gKXOVf epVsco"
+      class="sc-gKXOVf dOsZSp"
       id=""
     >
       <div
         class="sc-jSMfEi dRbZhr"
       >
         <div
-          class="sc-dkzDqf hsxRpz"
+          class="sc-dkzDqf heXQUQ"
         >
           <h2
-            class="sc-bczRLJ fHKbat"
+            class="sc-bczRLJ kSKtEH"
           >
             My grid
           </h2>
           <div
-            class="sc-gsnTZi gNZDCw"
+            class="sc-gsnTZi fSQKXd"
           >
             Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
           </div>
@@ -155,7 +155,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 1
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -169,7 +169,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 2
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -183,7 +183,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 3
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -193,22 +193,22 @@ exports[`<Base /> should render 1`] = `
       </div>
     </div>
     <div
-      class="sc-gKXOVf joDErG"
+      class="sc-gKXOVf hMKDKT"
       id=""
     >
       <div
         class="sc-jSMfEi dRbZhr"
       >
         <div
-          class="sc-dkzDqf hsxRpz"
+          class="sc-dkzDqf heXQUQ"
         >
           <h2
-            class="sc-bczRLJ hGDuJC"
+            class="sc-bczRLJ itwqPE"
           >
             My grid
           </h2>
           <div
-            class="sc-gsnTZi gNZDCw"
+            class="sc-gsnTZi fSQKXd"
           >
             Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
           </div>
@@ -224,7 +224,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 1
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -238,7 +238,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 2
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -252,7 +252,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 3
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -262,22 +262,22 @@ exports[`<Base /> should render 1`] = `
       </div>
     </div>
     <div
-      class="sc-gKXOVf epVsco"
+      class="sc-gKXOVf dOsZSp"
       id=""
     >
       <div
         class="sc-jSMfEi dRbZhr"
       >
         <div
-          class="sc-dkzDqf hsxRpz"
+          class="sc-dkzDqf heXQUQ"
         >
           <h2
-            class="sc-bczRLJ fHKbat"
+            class="sc-bczRLJ kSKtEH"
           >
             My grid
           </h2>
           <div
-            class="sc-gsnTZi gNZDCw"
+            class="sc-gsnTZi fSQKXd"
           >
             Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
           </div>
@@ -293,7 +293,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 1
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -307,7 +307,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 2
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -321,7 +321,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 3
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -331,22 +331,22 @@ exports[`<Base /> should render 1`] = `
       </div>
     </div>
     <div
-      class="sc-gKXOVf joDErG"
+      class="sc-gKXOVf hMKDKT"
       id=""
     >
       <div
         class="sc-jSMfEi dRbZhr"
       >
         <div
-          class="sc-dkzDqf hsxRpz"
+          class="sc-dkzDqf heXQUQ"
         >
           <h2
-            class="sc-bczRLJ hGDuJC"
+            class="sc-bczRLJ itwqPE"
           >
             My grid
           </h2>
           <div
-            class="sc-gsnTZi gNZDCw"
+            class="sc-gsnTZi fSQKXd"
           >
             Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
           </div>
@@ -362,7 +362,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 1
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -376,7 +376,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 2
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -390,7 +390,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 3
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -400,22 +400,22 @@ exports[`<Base /> should render 1`] = `
       </div>
     </div>
     <div
-      class="sc-gKXOVf epVsco"
+      class="sc-gKXOVf dOsZSp"
       id=""
     >
       <div
         class="sc-jSMfEi dRbZhr"
       >
         <div
-          class="sc-dkzDqf hsxRpz"
+          class="sc-dkzDqf heXQUQ"
         >
           <h2
-            class="sc-bczRLJ fHKbat"
+            class="sc-bczRLJ kSKtEH"
           >
             My grid
           </h2>
           <div
-            class="sc-gsnTZi gNZDCw"
+            class="sc-gsnTZi fSQKXd"
           >
             Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
           </div>
@@ -431,7 +431,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 1
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -445,7 +445,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 2
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -459,7 +459,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 3
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -469,22 +469,22 @@ exports[`<Base /> should render 1`] = `
       </div>
     </div>
     <div
-      class="sc-gKXOVf joDErG"
+      class="sc-gKXOVf hMKDKT"
       id=""
     >
       <div
         class="sc-jSMfEi dRbZhr"
       >
         <div
-          class="sc-dkzDqf hsxRpz"
+          class="sc-dkzDqf heXQUQ"
         >
           <h2
-            class="sc-bczRLJ hGDuJC"
+            class="sc-bczRLJ itwqPE"
           >
             My grid
           </h2>
           <div
-            class="sc-gsnTZi gNZDCw"
+            class="sc-gsnTZi fSQKXd"
           >
             Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
           </div>
@@ -500,7 +500,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 1
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -514,7 +514,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 2
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -528,7 +528,7 @@ exports[`<Base /> should render 1`] = `
                 Teste 3
               </h3>
               <div
-                class="sc-gsnTZi gNZDCw"
+                class="sc-gsnTZi fSQKXd"
               >
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
               </div>
@@ -538,13 +538,13 @@ exports[`<Base /> should render 1`] = `
       </div>
     </div>
     <footer
-      class="sc-evZas fYpazY"
+      class="sc-evZas jyzJup"
     >
       <div
         class="sc-jSMfEi dRbZhr"
       >
         <div
-          class="sc-gsnTZi gNZDCw"
+          class="sc-gsnTZi fSQKXd"
         >
           <p>
             Teste de footer
