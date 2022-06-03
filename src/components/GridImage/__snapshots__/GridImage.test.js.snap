@@ -13,7 +13,7 @@ exports[`<GridImage/> should render GridImage with background 1`] = `
         class="sc-eCYdqJ hhcssm"
       >
         <h2
-          class="sc-bczRLJ itwqPE"
+          class="sc-bczRLJ hGDuJC"
         >
           My grid
         </h2>
@@ -30,7 +30,6 @@ exports[`<GridImage/> should render GridImage with background 1`] = `
           >
             <img
               class="sc-iBkjds Doarb"
-              src="https://source.unsplash.com/random/800x800?r=1"
             />
           </div>
           <div
@@ -38,7 +37,6 @@ exports[`<GridImage/> should render GridImage with background 1`] = `
           >
             <img
               class="sc-iBkjds Doarb"
-              src="https://source.unsplash.com/random/800x800?r=2"
             />
           </div>
           <div
@@ -46,7 +44,6 @@ exports[`<GridImage/> should render GridImage with background 1`] = `
           >
             <img
               class="sc-iBkjds Doarb"
-              src="https://source.unsplash.com/random/800x800?r=3"
             />
           </div>
           <div
@@ -54,7 +51,6 @@ exports[`<GridImage/> should render GridImage with background 1`] = `
           >
             <img
               class="sc-iBkjds Doarb"
-              src="https://source.unsplash.com/random/800x800?r=4"
             />
           </div>
           <div
@@ -62,7 +58,6 @@ exports[`<GridImage/> should render GridImage with background 1`] = `
           >
             <img
               class="sc-iBkjds Doarb"
-              src="https://source.unsplash.com/random/800x800?r=5"
             />
           </div>
           <div
@@ -70,7 +65,6 @@ exports[`<GridImage/> should render GridImage with background 1`] = `
           >
             <img
               class="sc-iBkjds Doarb"
-              src="https://source.unsplash.com/random/800x800?r=6"
             />
           </div>
         </div>
@@ -93,7 +87,7 @@ exports[`<GridImage/> should render GridImage without background 1`] = `
         class="sc-eCYdqJ hhcssm"
       >
         <h2
-          class="sc-bczRLJ itwqPE"
+          class="sc-bczRLJ hGDuJC"
         >
           My grid
         </h2>
@@ -110,7 +104,6 @@ exports[`<GridImage/> should render GridImage without background 1`] = `
           >
             <img
               class="sc-iBkjds Doarb"
-              src="https://source.unsplash.com/random/800x800?r=1"
             />
           </div>
           <div
@@ -118,7 +111,6 @@ exports[`<GridImage/> should render GridImage without background 1`] = `
           >
             <img
               class="sc-iBkjds Doarb"
-              src="https://source.unsplash.com/random/800x800?r=2"
             />
           </div>
           <div
@@ -126,7 +118,6 @@ exports[`<GridImage/> should render GridImage without background 1`] = `
           >
             <img
               class="sc-iBkjds Doarb"
-              src="https://source.unsplash.com/random/800x800?r=3"
             />
           </div>
           <div
@@ -134,7 +125,6 @@ exports[`<GridImage/> should render GridImage without background 1`] = `
           >
             <img
               class="sc-iBkjds Doarb"
-              src="https://source.unsplash.com/random/800x800?r=4"
             />
           </div>
           <div
@@ -142,7 +132,6 @@ exports[`<GridImage/> should render GridImage without background 1`] = `
           >
             <img
               class="sc-iBkjds Doarb"
-              src="https://source.unsplash.com/random/800x800?r=5"
             />
           </div>
           <div
@@ -150,7 +139,6 @@ exports[`<GridImage/> should render GridImage without background 1`] = `
           >
             <img
               class="sc-iBkjds Doarb"
-              src="https://source.unsplash.com/random/800x800?r=6"
             />
           </div>
         </div>
